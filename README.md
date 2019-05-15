@@ -10,7 +10,7 @@ Install Tweepy using the command ``pip3 install tweepy``.
 
 # Execution
 
-Simply copy paste the link of the tweet you want to reply to then execute twitbot.py.
+Simply copy paste the link of the tweet you want to reply to and then execute twitbot.py.
 
 # Note
 
